@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+<title>Food and More</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Recipe Finder</title>
+		<script
+		  src="https://code.jquery.com/jquery-3.2.1.min.js"
+		  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+		  crossorigin="anonymous"></script>
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
+		<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<nav class="navigation" role="navigation">
+	<img class="YT-logo" src="https://developers.google.com/site-assets/logo-youtube.svg">&nbsp;
+	<span class="YT-text">FoodTube &nbsp;&nbsp;<a href="#">Home</a>&nbsp; <a href="#">Recipes</a>&nbsp; <a href="#">Cuisines</a>&nbsp;</span>	
+    <div class="links input-search-top">
+		<form action="#" class="js-search-form" id="search-term">
+		  <label for="query"></label>
+		  <input type="text" class="js-query" id="query" placeholder="Pineapple">
+		  <button type="submit">Search</button>
+		</form>
+ 
+    </div>
+</nav>
+
+
+<main class="main">
+ <header>
+	<h1>That Increadible Edible Thing called FOOD</h1>
+ </header>
+ 
+ <section class="mainSection"> 
+	<p> Are you curious about the food you eat?  Maybe you need a great recipe for Dragonfruit? 
+Whatever it is you need to know about that increadable edible food.  You'll find it here.</p>
+</section>
+ 
+ 
+    <form action="#" class="js-search-form" id="search-term">
+      <label for="query"> </label>
+      <input type="text" class="js-query" id="query" placeholder="Pineapple">
+      <button type="submit">Search</button>
+    </form>
+	  
+	<h2 class="resultH2" hidden>Results</h2>
+	<div class="containerMain">
+	  <div class="js-search-results-video" hidden></div>
+	  <div class="js-search-results-wiki" hidden></div>
+	  <div class="js-search-results-recipe" hidden></div>
+	</div>
+</main>
+</body>
+<footer>
+
+</footer>
+<script src="index.js"></script>
+
+
+
+
+</html>

@@ -1,0 +1,45 @@
+A recipie App that returns recipies with nutritional info also 
+
+
+Looking for a great recipe thats fits your diet paramaters
+IE  Atkins, Ketogenic, or South Beach
+
+Inputs
+
+Cuisine - mexican,american,french, etc
+Diet type - Atkins, Ketogenic, or South Beach, vegitarion, Carnivore
+How hard is it to make - Easy, Medium, Difficult
+Cost to make - $, $$, $$$, $$$$
+
+
+Need a sample img for videos 
+layout the recipe area wuith samples
+need a cool background and jeader images 
+need a cool logo
+need some fancy buttons for search buttons.
+also a hamburger link for mobile 
+make search in header area disappear on mobile. 
+Add roles and sections also add copyright in footer area
+need to figure out where those links will go to. 
+
+
+
+
+Checkout food network
+Check out food sites on mob
+
+search for a food item ie apples, bananas, beef, etc
+return recipes for that food, and articles about that item or related to that item, 
+
+Cornocopia of food "food-o-pedia"  "the food weazel"
+eat-o-opedia     "eat street" "eat-n-greet"  hangry list 
+
+best pizza in town and where to get it.
+
+Are you curious about the food you eat?  Maybe you need a great recipe for Dragonfruit? 
+What ever it is you need to know about that increadable edible food.  You'll find it here.
+
+use wikipedia, youtube, that recipie api, a dictionary api, 
+Find images of food for backgrounds and the header background also the loading icon,
+buttons, also need a logo ie. the food Weazel that looks like a ??
+cooking it, growing it, understanding it, defining it,  
