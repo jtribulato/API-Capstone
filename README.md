@@ -1,1 +1,2 @@
- This is my capstone project utilizing a API to organize and search recipes in an APP. 
+This is just notes on various projects
+
